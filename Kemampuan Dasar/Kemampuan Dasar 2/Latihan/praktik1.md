@@ -35,4 +35,8 @@
   
   #### Secara Banyak Sekaligus #####
   ![9](https://github.com/khoriers/praxis-academy/blob/master/Image/9.JPG)
-
+  ![10](https://github.com/khoriers/praxis-academy/blob/master/Image/10.JPG)
+  ![11](https://github.com/khoriers/praxis-academy/blob/master/Image/11.JPG)
+  
+7. Melihat History Commit
+  ![12](https://github.com/khoriers/praxis-academy/blob/master/Image/12.JPG)
