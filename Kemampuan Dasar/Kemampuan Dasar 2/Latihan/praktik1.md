@@ -9,6 +9,12 @@
 
   ![2](https://github.com/khoriers/praxis-academy/blob/master/Image/2.jpg)
   
-3. ![3](https://github.com/nasri1204/img/blob/master/3.PNG)
-4. ![4](https://github.com/nasri1204/img/blob/master/4.PNG)
+3. Membuat file baru dengan nama README.md
+
+  ![3](https://github.com/khoriers/praxis-academy/blob/master/Image/3.jpg)
+  
+4. Menambahkan isi atau penjelasan yang terdapat pada README.md
+
+  ![4](https://github.com/khoriers/praxis-academy/blob/master/Image/4.JPG)
+  
 5. ![5](https://github.com/nasri1204/img/blob/master/5.PNG)
