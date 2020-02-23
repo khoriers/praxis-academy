@@ -39,4 +39,10 @@
   ![11](https://github.com/khoriers/praxis-academy/blob/master/Image/11.JPG)
   
 7. Melihat History Commit
+
   ![12](https://github.com/khoriers/praxis-academy/blob/master/Image/12.JPG)
+  ![13](https://github.com/khoriers/praxis-academy/blob/master/Image/13.JPG)
+
+8. Membuat Repository bernama rhymes pada github
+  
+  ![14](https://github.com/khoriers/praxis-academy/blob/master/Image/14.jpg)
