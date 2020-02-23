@@ -24,3 +24,15 @@
   ![6](https://github.com/khoriers/praxis-academy/blob/master/Image/6.JPG)
   
   ![7](https://github.com/khoriers/praxis-academy/blob/master/Image/7.JPG)
+
+
+   ### Memasukkan beberapa file yang diperlukan ###
+
+6. Menambahkan file pada/untuk git
+
+  #### Satu Persatu ####
+  ![8](https://github.com/khoriers/praxis-academy/blob/master/Image/8.JPG)
+  
+  #### Secara Banyak Sekaligus #####
+  ![9](https://github.com/khoriers/praxis-academy/blob/master/Image/9.JPG)
+
