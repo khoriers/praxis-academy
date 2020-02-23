@@ -1,6 +1,6 @@
 # praxis-academy
 1. 	Lakukan Git init untuk menginisialisasi **folder** agar tertrack di dalam **git**
-![ini gambar 1](https://tedyfirdaus11.github.io/ImagesKP/Screenshot_6.png)
+![ini gambar 1](https://github.com/khoriers/IMAGE/blob/master/094.jpg)
 
 2. 	Untuk melakukan commit maka bisa ditulis seperti berikut
 ![ini gambar 2](https://tedyfirdaus11.github.io//ImagesKP/Screenshot_7.png)
