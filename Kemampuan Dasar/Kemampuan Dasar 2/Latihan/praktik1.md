@@ -46,3 +46,9 @@
 8. Membuat Repository bernama rhymes pada github
   
   ![14](https://github.com/khoriers/praxis-academy/blob/master/Image/14.jpg)
+
+9. Mempush semua ke dalam repository github
+
+  ![15](https://github.com/khoriers/praxis-academy/blob/master/Image/14.jpg)
+  
+  ![16](https://github.com/khoriers/praxis-academy/blob/master/Image/14.jpg)
