@@ -28,6 +28,4 @@
    
    ![7](https://github.com/khoriers/praxis-academy/blob/master/Image/23.jpg)
    
-   ![8](https://github.com/MegaOktavian/rhymes/blob/master/Gambar2/Capture14.PNG)
-   
-   ![9](https://github.com/khoriers/praxis-academy/blob/master/Image/24.jpg)
+   ![8](https://github.com/khoriers/praxis-academy/blob/master/Image/24.jpg)
