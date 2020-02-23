@@ -17,4 +17,10 @@
 
   ![4](https://github.com/khoriers/praxis-academy/blob/master/Image/4.JPG)
   
-5. ![5](https://github.com/nasri1204/img/blob/master/5.PNG)
+5. Tinjau perubahan mana saja yang tidak dikomit.
+
+  ![5](https://github.com/khoriers/praxis-academy/blob/master/Image/5.JPG)
+  
+  ![6](https://github.com/khoriers/praxis-academy/blob/master/Image/6.JPG)
+  
+  ![7](https://github.com/khoriers/praxis-academy/blob/master/Image/7.JPG)
