@@ -1,25 +1,9 @@
-1. Membuat repository bernama rhymes
+# Kemampuan Teknis Dasar 2 : Git #
 
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar01.PNG)
-
-2. Masuk kedalam repository yang telah dibuat
-
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar02.PNG)
    
-3. Untuk membuat direktori ini dan mengosongkan repo Git, lakukan ini:
-
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar03.PNG)
-
-4. Membuat file baru bernama README.md 
-
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar04.PNG)
-
-5. Tambahkan beberapa penjelasan tentang proyek ke file README.
-
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar05.PNG)
-
-6. Tinjau perubahan yang tidak dikomit.
-
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar06.PNG)
-   
-   ![gambar 1](https://github.com/MegaOktavian/rhymes/blob/master/Gambar1/Gambar07.PNG)
+# praktik1.md
+1. ![1](https://github.com/nasri1204/img/blob/master/1.PNG)
+2. ![2](https://github.com/nasri1204/img/blob/master/2.PNG)
+3. ![3](https://github.com/nasri1204/img/blob/master/3.PNG)
+4. ![4](https://github.com/nasri1204/img/blob/master/4.PNG)
+5. ![5](https://github.com/nasri1204/img/blob/master/5.PNG)
