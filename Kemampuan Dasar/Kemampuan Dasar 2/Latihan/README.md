@@ -1,2 +1,4 @@
 # Repository yang digunakan
-1. ![1] (https://github.com/khoriers/praxis-academy/tree/master/Image)
+
+* [image](https://github.com/khoriers/praxis-academy/tree/master/Image)
+* [rhymes](https://github.com/khoriers/rhymes)
