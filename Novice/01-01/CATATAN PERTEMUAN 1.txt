@@ -4,6 +4,7 @@
 1. Flutter (Intinya buat UI nya), sedangkan Dart  (untuk Backendnya, tapi ada apalah lupa aku)
 
 pub.dev/packages/stagehand
+https://github.com/dart-lang/stagehand
 Manggil appnya bin/main.dart
 
 codingnya di library, yang dipanggil di bin/main
