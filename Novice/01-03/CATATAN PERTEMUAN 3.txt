@@ -1,0 +1,49 @@
+while, akan ngecek kondisi dulu, klo bener dia ditampilkan, 
+for, klo dah bener, dia
+do while
+
+for
+  while
+	//klo ada 2 gitu berarti ada 2 perulangan, tapi prosesnya nggak digabung, satu2
+
+				OOP
+ABSTRAK
+INHERITANCE (PEWARISAN, buat class,yg bisa menggunakan class ini adalah yg punya hubungan),
+	ex : Mobil, turunannya/jenisnya misal Mobil Sport, mobil sedan.
+BLUEPRINT
+CONSTRUCTOR, Method yang wajib ada di dalam class
+
+getter setter, msk di method, ambil atau isi data atribut
+
+2,3,7,10
+
+Dart sama dengan pemrograman OOP dengan yang lainnya, dengan mendeklarasi kelas seperti syntax
+class NamaKelas(){
+    // Properties/field
+    // Constructor
+    // Method/function
+    // Getter/setter
+}
+
+MISAL :
+class Siswa{
+    String nama;
+    String kelas;
+
+    Siswa(this.nama, this.kelas);
+
+    getInfo(){
+        return "Nama: " + nama + ", kelas: " + kelas;
+    }
+}
+
+Tipe Objek nyiptain sendiri, cara buatnya
+
+Interfaces : ada satu kelas, dia itu nyoba banyak class, dia cuman make implements doang
+		Jadi dia itu mirip Inheritance, hanya saja dia nyoba ke banyak class,
+		dan memakai Implements doang, tanpa extend
+
+Function ditaruh di LUAR Class
+Method ditaruh di DALAM Class
+
+Variable Instances = Properties, di bagian main
