@@ -1,0 +1,16 @@
+1. Instal Visual Studio atau Android Studio
+2. Install Framework Flutter (klo ini sdh include Bahasa Pemrograman Dart)
+
+1. Flutter (Intinya buat UI nya), sedangkan Dart  (untuk Backendnya, tapi ada apalah lupa aku)
+
+pub.dev/packages/stagehand
+Manggil appnya bin/main.dart
+
+codingnya di library, yang dipanggil di bin/main
+controlnya di lib, viewnya di bin
+
+dart.dev/tools/pub/cmd/pub-global
+
+C:\Users\OWNER\AppData\Roaming\Pub\Cache\bin
+
+tugas2 tadi disimpan di lib
