@@ -7,6 +7,7 @@ Tipe data dasar pada Dart dibagi menjadi tiga macam:
     - Tipe data Angka (Number): int, double
     - Tipe data teks: String
     - Tipe data boolean: bool
+    
 Lalu untuk membuat variabel pada Dart, kita bisa menggunakan kata kunci var dan menuliskan langsung tipe datanya.
 Apa perbedaan pembuatan variabel menggunakan kata kunci var dengan ‘tipe data’?
 Apabila kita membuat variabel menggunakan kata kunci var, maka variabel tersebut akan bisa diisi dengan tipe data apapun.
