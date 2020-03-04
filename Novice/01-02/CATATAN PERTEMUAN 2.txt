@@ -1,0 +1,57 @@
+LANJUTAN....
+lib = nyimpan logic2nya atau perhitung2annya, kyk perkalian dan pembagian
+	disimpan di library
+bin = sedangkan bin untuk menyimpan file main yg berisi codingan yg ingin ditampilkan (kyk print),
+	diikuti dengan menambah import pada codingan tersebut, untuk memanggil perhitungan yg terdapat pada lib
+
+final = untuk menyimpan, ada kemungkinan nilai itu berubah , kemungkinan ada manggil sebuah angka yg lain karena bisa berubah
+const = nilainya sdh fix, gak berubah. OK FIX
+
+main ()
+	{
+		final  angka = 1; //ini kan ketetapannya satu, tapi lihat yg dibawah 
+		final angka = new //nilai yg tadi bisa berubah (yg new), biasanya ada codingan lagi dibawahnya
+		const = 3; //OK FIX, gak bisa berubah
+}
+
+Angka yg pasti/bulat = int
+Angka yg koma-koma = Double
+Kata-kata/hurud-huruf = String
+
+--------------------------------------------------------------------------------
+FUNCTIONS
+main () { //ini satu fungsi, fungsi utama
+
+		print('Hai');
+};
+
+beep () { //ini satu fungsi, fungsi lain
+};
+
+---------------------------------------------------------------------------
+RETURN
+main () {
+	print (kuadrat (5));
+}
+
+int kuadrat (int x) {
+	return x*x;
+}
+-----------------------------------------------------------------------------
+Number pada hal ini berarti sebuah tipe data yang nilainya sebuah angka. Pada basaha Dart ini tipe data Number dibedakan menjadi 2 yaitu:
+
+    Int (Integer)
+    Double (Float)
+-----------------------------------------------------------------------
+https://cotutorial.github.io/
+https://www.tutorialspoint.com/dart_programming
+https://dartpad.dev/
+https://www.seredata.com/2018/12/dasar-pemrograman-dart-part-5-function.html
+http://www.udacoding.com/belajar-pemrogramman-dart-fundamental-flutter-starter-pack-part-2/
+https://devinpractice.com/2017/10/22/algorithms-basic-exercises-part-1/
+https://code2flow.com/app
+--------------------------------------------------------------------------------
+Mixins fungsinya membuat class baru, tapi dibuat diatas superclass
+Aassert selalu ada 2 kondisi, apabila bernilai benar (maka tetap dijalankan), namun apabila bernilai salah (tetap berjalan, tetapi errornya disembunyikan, yg dimunculkan hanya pesan)
+Try klo benar dijalankan, klo ada yg salah casenya dilewati
+Finally tabrak aja walaupun salah
