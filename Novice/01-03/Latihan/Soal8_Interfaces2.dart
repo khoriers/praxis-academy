@@ -14,6 +14,10 @@ class C extends A implements B {
   void hello() {
     print("Class C Hello");
   }
+  
+  void horas() {
+    print("Class C Horas");
+  }
 }
 
 class D extends B implements A {

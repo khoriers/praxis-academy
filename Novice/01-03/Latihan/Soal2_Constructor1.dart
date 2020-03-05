@@ -11,9 +11,9 @@ class Karyawan {
 }
 
 void main () {
-  Karyawan karyawan = new Karyawan ("Joko", "VII");
-  print (karyawan.nama);
-  print (karyawan.kantor);
+  Karyawan staff = new Karyawan ("Joko", "VII");
+  print (staff.nama);
+  print (staff.kantor);
 
-  print(karyawan.getInfo());
+  print(staff.getInfo());
 }

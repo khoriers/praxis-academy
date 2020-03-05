@@ -1,9 +1,6 @@
 import 'dart:io';
 
-
-
 double saldo = 0;
-
 String backToMenu;
 
 
