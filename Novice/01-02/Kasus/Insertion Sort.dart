@@ -1,18 +1,22 @@
-main () {
-  List InsertionSort(List numbers) {
+main() {
 
-  for(int i = 1; i < numbers.length; i++) {
-    var key = numbers[i];
-    var j = i;
-
-    while(j > 0 && numbers[j - 1] > key) {
-      numbers[j] = numbers[j - 1];
-      j = j - 1;
-    }
-    
-    numbers[j] = key;
-  }
-  return numbers;
+  print(insertionSort([8,9, 4, 2, 6,10,12]));
 
 }
+
+List<int> insertionSort(List<int> list) {
+
+  for (int j = 1; j < list.length; j++) {
+    int key = list[j];
+    int i = j - 1;
+
+
+    while (i >= 0 && list[i] > key) {
+      list[i + 1] = list[i];
+      i = i - 1;
+      list[i + 1] = key;
+    }
+
+  }
+  return list;
 }
