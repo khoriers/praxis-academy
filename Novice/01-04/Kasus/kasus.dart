@@ -29,4 +29,3 @@ class GenericClass<T> {
 
     String str = strOb.getob();
     print("value: " + str);
-    }

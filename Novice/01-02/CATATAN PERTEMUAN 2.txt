@@ -56,6 +56,8 @@ https://www.codevscolor.com/dart-instance-variable/
 https://sites.google.com/site/dartlangexamples/learn/variables/generics
 https://www.kodetr.com/flutter-belajar-membuat-list-pada-pemrograman-dart/
 http://sma.github.io/stuff/java2dartweb/java2dartweb.html JAVA TO DART
+https://isallab.com/article/pengenalan-bahasa-pemrograman-dart-part-2/
+
 --------------------------------------------------------------------------------
 Mixins fungsinya membuat class baru, tapi dibuat diatas superclass
 Aassert selalu ada 2 kondisi, apabila bernilai benar (maka tetap dijalankan), namun apabila bernilai salah (tetap berjalan, tetapi errornya disembunyikan, yg dimunculkan hanya pesan)
