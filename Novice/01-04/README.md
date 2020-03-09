@@ -1,1 +1,1 @@
-UPATE
+UPDATE
