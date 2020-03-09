@@ -1,0 +1,7 @@
+Perbedaan List dengan Map yakni :
+1. List MENGGUNAKAN [] Kurung Siku
+2. Map MENGGUNAKAN {} Kurung Kurawal
+
+list atau biasa dikenal dengan istilah array, adalah salah satu contoh collection, kita bisa membuat dengan cara seperti berikut
+sets adalah collection yang tidak berurutan dan sifatnya unik, artinya data-datanya tidak boleh ada yang sama
+map adalah collection yang menggunakan key dan value, keduanya(key dan value) bisa dalam bentuk tipe apapun, kita buat: 

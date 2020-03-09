@@ -1,0 +1,85 @@
+Asynchronous (futures, async, await)
+
+Synchronous adalah yang paling umum dan mudah di mengerti.
+Setiap perintah di eksekusi satu persatu sesuai urutan kode yang anda tuliskan. Contoh :
+					EXAMPLE
+console.log('Hello')
+console.log('Javascript')
+console.log('Coder')
+
+/*
+Output :
+Hello!
+Javascipt
+Coder
+*/
+
+Output dari kode diatas dijamin akan sesuai urutan, 
+karena setiap perintah harus menunggu perintah sebelumnya selesai. 
+Proses seperti ini disebut ‘blocking’.
+
+Dalam dunia nyata ini mirip seperti antrian di BANK. 
+Jika anda berada antrian nomor 4, maka anda akan dilayani setelah antrian 1–3 sampai selesai.
+
+Sedangkan Asynchronous hasil eksekusi atau output tidak selalu berdasarkan urutan kode, tetapi berdasarkan waktu proses. 
+Eksekusi dengan asynchronous tidak akan membloking atau menunggu suatu perintah sampai selesai. 
+Daripada menunggu, asynchronous akan mengeksekusi perintah selanjutnya. Wait, sampai disini mungkin tidak masuk akal
+
+					EXAMPLE
+console.log('Hello');
+setTimeout(() => { console.log('Javascript')},100) // tunda selama 100 miliseconds
+console.log('Coder');
+
+/* ----------
+Output :
+Hello!
+Coder
+Javascipt
+------------*/
+
+Pada baris ke 2 setTimeout digunakan untuk menunda eksekusi dalam satuan milisecond dalam hal ini untuk simulasi prosess async.
+
+Perhatikan bahwa outputnya tidak berurutan sesuai input (kode). 
+Karena cara kerja asynchronous adalah berdasarkan waktu proses. 
+Jika ada salah satu eksekusi membutuhkan proses yang agak lama, maka sembari menunggu prosess tersebut javascript mengeksekusi perintah selanjutnya.
+
+KONSEP AWAIT
+					
+					EXAMPLE
+async function myFirstAsyncFunction() {
+  try {
+    const fulfilledValue = await promise;
+  }
+  catch (rejectedValue) {
+    // …
+  }
+}
+
+
+Jika Anda menggunakan kata kunci async sebelum definisi fungsi, maka Anda bisa menggunakan await di dalam fungsi. 
+Ketika Anda await promise, fungsi tersebut dihentikan sementara dengan cara yang tak-memblokir sampai promise selesai. 
+Jika promise itu terpenuhi, Anda mendapatkan kembali nilai tersebut. Jika promise ditolak, nilai yang ditolak akan dibuang.
+
+KONSEP ASYNC/AWAIT
+
+Ada 2 kata kunci disini yaitu async dan await, mari kita lihat contohnya :
+					EXAMPLE
+async function hello() {
+	result = await doAsync ()
+	console.log(result)
+}
+
+Keterangan :
+async → mengubah function menjadi asynchronous
+await → menunda eksekusi hingga proses asynchronous selesai, 
+	dari kode di atas berarti console.log(result) tidak akan di eksekusi sebelum prose doAsync( ) selesai. 
+	await juga bisa digunakan berkali-kali di dalam function
+
+
+
+Callback sebenarnya adalah function bedanya dengan function pada umumnya adalah di cara eksekusinya. 
+Jika function pada umumnya di eksekusi berurutan dari atas ke bawah maka callback di eksekusi pada point tertentu, 
+itu sebabnya di sebut callback.
+
+Callback disebut juga dengan high-order function. Callback sebenarnya adalah function, bedanya dengan function pada umumnya adalah di cara eksekusinya. 
+Jika function pada umumnya di eksekusi secara langsung sedangkan callback di eksekusi dalam function lain melalui parameter.
