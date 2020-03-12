@@ -1,0 +1,4 @@
+hello_kasus1_hari1 = Itu sudah bisa dikasih love, cuman blm bisa nyimpan
+		     love-love mana saja yang tersimpan sekaligus berpindah menu
+hello_syahrul = sudah bisa tersimpan mana saja yg dikasih love-love, dan bisa
+		berpindah ke menu tersimpan tersebut

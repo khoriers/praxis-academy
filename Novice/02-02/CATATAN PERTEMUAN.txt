@@ -1,0 +1,24 @@
+StatelessWidget
+ = sebagai dinam
+github.com/arari31s/stateless-dan-stateful-widget
+
+stl = STATELESS
+stf = STATEFULL
+
+Fungsi pubspec.yaml yakni untuk tempat menyimpan library/package
+(misal seperti Library Kamus Bahasa Inggris)
+
+CTRL+.
+
+https://www.sinaubareng.xyz/2020/03/flutter-stateless-dan-stateful-widget.html
+https://www.petanikode.com/flutter-vscode/
+https://www.petanikode.com/flutter-android-studio/
+https://www.tutorialkart.com/flutter/flutter-animation-basic-example/
+https://www.codepolitan.com/membuat-tab-bar-di-flutter
+https://www.petanikode.com/flutter-dasar/
+---------------------------------------------------------------------------------------------------------
+https://medium.com/skyshidigital/flutter-io-416c63020732
+
+Pada project yang sudah kita buat akan ada folder lib untuk menuliskan kode program kita dalam ekstensi 
+.dart dan file pubspec.yaml untuk menambahkan library. 
+Klik Debug > Start Debugging pada menu VS Code untuk menjalankan kode program kita. Pastikan ada emulator yang sudah berjalan atau device yang sudah pada mode debug yang terhubung. Setelah prosesnya selesai maka akan terlihat tampilan seperti ini pada emulator / device kita.
