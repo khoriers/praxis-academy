@@ -1,0 +1,8 @@
+hello_latihan1_hari3 = Cuman buat folder Assets(Images) dan file/gambar image01.jpg
+hello_latihan2_hari3 = Membuat Navigation : Animate a widget across screens
+			ketika di klik 2 kali gambarnya akan seperti muncul ke bawah gitu, coba aja
+hello_latihan3_hari3 = Membuat Navigation : Navigate to a new screen and back
+			ketika di klik akan berpindah halaman
+hello_latihan4_hari3 = Membuat Navigate with named routes 
+			ketika di klik akan berpindah halaman juga
+hello_kasus1_hari3 = KOK cuman tampil Home Page :(
