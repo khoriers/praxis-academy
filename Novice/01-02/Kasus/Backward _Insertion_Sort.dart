@@ -1,12 +1,14 @@
-List backwardInsertionSort(List numbers) {
-  for (int i = numbers.length - 1; i >= 0; --i) {
-    var key = numbers[i];
-    var j = i + 1;
-    while (j < numbers.length && key > numbers[j]) {
-      numbers[j - 1] = numbers[j];
-      j++;
+main() {
+  var Random = [10, 9, 3, 4, 2, 1, 7, 15, 23];
+  var start;
+  for (start = Random.length - 1; start >= 0; start--) {
+    var key = Random[start];
+    var start2 = start + 1;
+    while (start2 < Random.length && key > Random[start2]) {
+      Random[start2 - 1] = Random[start2];
+      start2 = start2 + 1;
     }
-    numbers[j - 1] = key;
+    Random[start2 - 1] = key;
   }
-  return numbers;
+  print(Random);
 }
