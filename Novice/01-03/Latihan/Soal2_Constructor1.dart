@@ -2,11 +2,11 @@ class Karyawan {
   String nama ;
   String kantor; //Properties Field
 
-  Karyawan (this.nama, this.kantor); //Constructornya
+  Karyawan (this.nama, this.kantor);
 
   getInfo() {
       return "Nama: " + nama + ", kantor: " + kantor;
-  }
+  } //Constructornya
 
 }
 
